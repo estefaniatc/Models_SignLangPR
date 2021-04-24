@@ -1,0 +1,70 @@
+{
+    "quizTitle": "Prueba del Abecedario",
+    "quizSynopsis": "Repasa los conceptos aprendidos en la lección del abecedario. Esta prueba medira tu retención del material.",
+    "questions": [
+        {
+            "question": "El abecedario cuenta con señas que utilizan ambas manos.",
+            "questionType": "text",
+            "answerSelectionType": "single",
+            "answers": [
+                "Cierto",
+                "Falso"
+            ],
+            "correctAnswer": "2",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "10"
+        },
+        {
+            "question": "Identifica la letra presentada en la imagen.",
+            "questionType": "text",
+            "questionPic": "https://drive.google.com/uc?export=view&id=1FAMO4-3ly_IUpbxpZlhQfzGcAgjo-Twq",
+            "answerSelectionType": "single",
+            "answers": [
+                "L",
+                "X",
+                "K",
+                "C"
+            ],
+            "correctAnswer": "3",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "20"
+        },
+        {
+            "question": "¿Qué letra presenta la imagen?",
+            "questionType": "text",
+            "questionPic": "https://drive.google.com/uc?export=view&id=1709RD6h9732w0eJ79yn5fFzdjcdsGRx_",
+            "answerSelectionType": "single",
+            "answers": [
+                "D",
+                "P",
+                "Q",
+                "M"
+            ],
+            "correctAnswer": "1",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "20"
+        },
+        {
+            "question": "Selecciona la imagen que representa la letra M",
+            "questionType": "photo",
+            "answerSelectionType": "single",
+            "answers": [
+                "https://drive.google.com/uc?export=view&id=1wUHwetB7P_e01IJ9thfrpT8LIT7Qk3Em",
+                "https://drive.google.com/uc?export=view&id=1s4UaiqYodmr6pzfzD2DaWgsMoz_CO2QB",
+                "https://drive.google.com/uc?export=view&id=11G2TJDhGAxwY2Ftln7GI8issZOb3k3kD",
+                "https://drive.google.com/uc?export=view&id=1xIYFZTVNUoPfRcK6jZi69Kj7OAp7Nx_E"
+            ],
+            "correctAnswer": "4",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "20"
+        }
+    ]
+}
