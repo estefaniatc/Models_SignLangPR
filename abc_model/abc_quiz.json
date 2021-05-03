@@ -9,13 +9,17 @@
         "resultFilterCorrect": "Correctas",
         "resultFilterIncorrect": "Incorrectas",
         "nextQuestionBtn": "Próximo",
-        "resultPageHeaderText": "Ha completado la prueba del abecedario. Su puntuación fue <correctIndexLength> de <questionLength> preguntas."
+        "resultPageHeaderText": "Ha completado la prueba del abecedario. Obtuvo <correctIndexLength> de <questionLength> preguntas correctas.",
+        "resultPagePoint": "Su puntuación fue <correctPoints>/<totalPoints>",
+        "singleSelectionTagText": "Selección sencilla",
+        "multipleSelectionTagText": "Selección múltiple",
+        "pickNumberOfSelection": "Escoja <numberOfSelection>"
       } ,
     "questions": [
         {
             "question": "El abecedario cuenta con señas que utilizan ambas manos.",
             "questionType": "text",
-            "answerSelectionType": "sencillo",
+            "answerSelectionType": "single",
             "answers": [
                 "Cierto",
                 "Falso"
@@ -47,7 +51,7 @@
             "question": "¿Qué letra presenta la imagen?",
             "questionType": "text",
             "questionPic": "https://drive.google.com/uc?export=view&id=1709RD6h9732w0eJ79yn5fFzdjcdsGRx_",
-            "answerSelectionType": "sencillo",
+            "answerSelectionType": "single",
             "answers": [
                 "D",
                 "P",
