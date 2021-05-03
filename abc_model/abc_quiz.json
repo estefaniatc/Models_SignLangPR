@@ -1,11 +1,21 @@
 {
     "quizTitle": "Prueba del Abecedario",
     "quizSynopsis": "Repasa los conceptos aprendidos en la lección del abecedario. Esta prueba medira tu retención del material.",
+    "appLocale": {
+        "landingHeaderText": "<questionLength> Preguntas",
+        "question": "Pregunta",
+        "startQuizBtn": "Comenzar Prueba",
+        "resultFilterAll": "Todas",
+        "resultFilterCorrect": "Correctas",
+        "resultFilterIncorrect": "Incorrectas",
+        "nextQuestionBtn": "Próximo",
+        "resultPageHeaderText": "Ha completado la prueba del abecedario. Su puntuación fue <correctIndexLength> de <questionLength> preguntas."
+      } ,
     "questions": [
         {
             "question": "El abecedario cuenta con señas que utilizan ambas manos.",
             "questionType": "text",
-            "answerSelectionType": "single",
+            "answerSelectionType": "sencillo",
             "answers": [
                 "Cierto",
                 "Falso"
@@ -37,7 +47,7 @@
             "question": "¿Qué letra presenta la imagen?",
             "questionType": "text",
             "questionPic": "https://drive.google.com/uc?export=view&id=1709RD6h9732w0eJ79yn5fFzdjcdsGRx_",
-            "answerSelectionType": "single",
+            "answerSelectionType": "sencillo",
             "answers": [
                 "D",
                 "P",
