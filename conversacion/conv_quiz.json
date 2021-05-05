@@ -1,0 +1,65 @@
+{
+    "quizTitle": "Prueba de conversación básica",
+    "quizSynopsis": "Repasa los conceptos aprendidos en la lección de conversación básica. Esta prueba medira tu retención del material.",
+    "appLocale": {
+        "landingHeaderText": "<questionLength> Preguntas",
+        "question": "Pregunta",
+        "startQuizBtn": "Comenzar Prueba",
+        "resultFilterAll": "Todas",
+        "resultFilterCorrect": "Correctas",
+        "resultFilterIncorrect": "Incorrectas",
+        "nextQuestionBtn": "Próximo",
+        "resultPageHeaderText": "Ha completado la prueba de los meses. Obtuvo <correctIndexLength> de <questionLength> preguntas correctas.",
+        "resultPagePoint": "Su puntuación fue <correctPoints>/<totalPoints>",
+        "singleSelectionTagText": "Selección sencilla",
+        "multipleSelectionTagText": "Selección múltiple",
+        "pickNumberOfSelection": "Escoja <numberOfSelection>"
+    },
+    "questions": [
+        {
+            "question": "Al presentarte a alguien por primera vez, debes deletrear tu nombre.",
+            "questionType": "text",
+            "answerSelectionType": "single",
+            "answers": [
+                "cierto",
+                "falso"
+            ],
+            "correctAnswer": "1",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "10"
+        },
+        {
+            "questionPic": "https://drive.google.com/uc?export=view&id=13TQO1xkgYNY6gw4hAo6xrnvPLafNov1E",
+            "question": "La término representa la imagen",
+            "questionType": "text",
+            "answerSelectionType": "single",
+            "answers": [
+                "hola",
+                "¿cómo puedo ayudarte?",
+                "buenos días"
+            ],
+            "correctAnswer": "3",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "20"
+        },
+        {
+            "question": "Seleccione la seña para la palabra: gracias",
+            "questionType": "text",
+            "answerSelectionType": "single",
+            "answers": [
+                "https://drive.google.com/uc?export=view&id=1vfOGTpWBvBxHVMCob7PGmz13u9UkhUR6",
+                "https://drive.google.com/uc?export=view&id=1TqFix-jjEs0t65JJTYfBBq5OMmjzEv1n",
+                "https://drive.google.com/uc?export=view&id=1KnRV3f07qxgQizrTTvjONh6z7PK0cdgT"
+            ],
+            "correctAnswer": "1",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "20"
+        }
+    ]
+}
