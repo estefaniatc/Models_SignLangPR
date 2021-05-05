@@ -1,0 +1,86 @@
+{
+    "quizTitle": "Prueba de los meses",
+    "quizSynopsis": "Repasa los conceptos aprendidos en la lección de los meses. Esta prueba medira tu retención del material.",
+    "appLocale": {
+        "landingHeaderText": "<questionLength> Preguntas",
+        "question": "Pregunta",
+        "startQuizBtn": "Comenzar Prueba",
+        "resultFilterAll": "Todas",
+        "resultFilterCorrect": "Correctas",
+        "resultFilterIncorrect": "Incorrectas",
+        "nextQuestionBtn": "Próximo",
+        "resultPageHeaderText": "Ha completado la prueba de los meses. Obtuvo <correctIndexLength> de <questionLength> preguntas correctas.",
+        "resultPagePoint": "Su puntuación fue <correctPoints>/<totalPoints>",
+        "singleSelectionTagText": "Selección sencilla",
+        "multipleSelectionTagText": "Selección múltiple",
+        "pickNumberOfSelection": "Escoja <numberOfSelection>"
+    },
+    "questions": [
+        {
+            "question": "¿Qué mes presenta la imagen?",
+            "questionType": "text",
+            "questionPic": "https://drive.google.com/uc?export=view&id=150V_MZP0GzrZz0GwCOYdhaa6zxIKHcaD",
+            "answerSelectionType": "single",
+            "answers": [
+                "marzo",
+                "enero",
+                "octubre",
+                "abril"
+            ],
+            "correctAnswer": "2",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "20"
+        },
+        {
+            "questionPic": "https://drive.google.com/uc?export=view&id=1eXhL-ZGWwmD-w9m-fzaJdmfPi5vcUfks",
+            "question": "La imagen presenta el mes de julio.",
+            "questionType": "text",
+            "answerSelectionType": "single",
+            "answers": [
+                "Cierto",
+                "Falso"
+            ],
+            "correctAnswer": "2",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "10"
+        },
+        {
+            "question": "¿Qué mes presenta la imagen?",
+            "questionType": "text",
+            "questionPic": "https://drive.google.com/uc?export=view&id=14G4y3DJCsFAwWf4ZfIPRyWCVlFjbCEy_",
+            "answerSelectionType": "single",
+            "answers": [
+                "marzo",
+                "septiembre",
+                "mayo",
+                "agosto"
+            ],
+            "correctAnswer": "2",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "20"
+        },
+        {
+            "question": "¿Qué mes presenta la imagen?",
+            "questionType": "text",
+            "questionPic": "https://drive.google.com/uc?export=view&id=17DJKAMNR88HCtNdxdAGHUp8CXZrRw7si",
+            "answerSelectionType": "single",
+            "answers": [
+                "febrero",
+                "diciembre",
+                "abril",
+                "octubre"
+            ],
+            "correctAnswer": "1",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "20"
+        }
+    ]
+}
