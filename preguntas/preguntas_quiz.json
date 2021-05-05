@@ -1,0 +1,86 @@
+{
+    "quizTitle": "Prueba de preguntas",
+    "quizSynopsis": "Repasa los conceptos aprendidos en la lección de preguntas. Esta prueba medira tu retención del material.",
+    "appLocale": {
+        "landingHeaderText": "<questionLength> Preguntas",
+        "question": "Pregunta",
+        "startQuizBtn": "Comenzar Prueba",
+        "resultFilterAll": "Todas",
+        "resultFilterCorrect": "Correctas",
+        "resultFilterIncorrect": "Incorrectas",
+        "nextQuestionBtn": "Próximo",
+        "resultPageHeaderText": "Ha completado la prueba de preguntas. Obtuvo <correctIndexLength> de <questionLength> preguntas correctas.",
+        "resultPagePoint": "Su puntuación fue <correctPoints>/<totalPoints>",
+        "singleSelectionTagText": "Selección sencilla",
+        "multipleSelectionTagText": "Selección múltiple",
+        "pickNumberOfSelection": "Escoja <numberOfSelection>"
+      } ,
+    "questions": [
+        {
+                   "question": "Identifica la pregunta presentada en la imagen.",
+                   "questionType": "text",
+                   "questionPic": "https://drive.google.com/uc?export=view&id=1EnfdHIfA04XwdJyNRqnS4GnTfEc84B_s",
+                   "answerSelectionType": "single",
+                   "answers": [
+                       "quién",
+                       "dónde",
+                       "qué",
+                       "cuál"
+                   ],
+                   "correctAnswer": "2",
+                   "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+                   "messageForIncorrectAnswer": "Respuesta incorrecta.",
+                   "explanation": "",
+                   "point": "20"
+               },
+        {
+            "questionPic": "https://drive.google.com/uc?export=view&id=1eS2ykTTVIns_7flWr_b6BPXGQK_RRfA_",
+            "question": "La imagen presenta la seña para cuándo",
+            "questionType": "text",
+            "answerSelectionType": "single",
+            "answers": [
+                "Cierto",
+                "Falso"
+            ],
+            "correctAnswer": "2",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "10"
+        },
+        {
+                       "question": "Identifica la pregunta presentada en la imagen.",
+                       "questionType": "text",
+                       "questionPic": "https://drive.google.com/uc?export=view&id=137jkSYwyHTw3UXFuWqK4bWOe-rt1ovIa",
+                       "answerSelectionType": "single",
+                       "answers": [
+                           "cómo",
+                           "cuánto",
+                           "dónde",
+                           "quién"
+                       ],
+                       "correctAnswer": "4",
+                       "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+                       "messageForIncorrectAnswer": "Respuesta incorrecta.",
+                       "explanation": "",
+                       "point": "20"
+                   },
+        {
+                             "question": "Identifica la pregunta presentada en la imagen.",
+                             "questionType": "text",
+                             "questionPic": "https://drive.google.com/uc?export=view&id=1kHFdTmcXR4hWTQhdFoZ7_Khl7ix80nyA",
+                             "answerSelectionType": "single",
+                             "answers": [
+                                 "quién",
+                                 "qué",
+                                 "dónde",
+                                 "por qué"
+                             ],
+                             "correctAnswer": "2",
+                             "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+                             "messageForIncorrectAnswer": "Respuesta incorrecta.",
+                             "explanation": "",
+                             "point": "20"
+                         }
+    ]
+}

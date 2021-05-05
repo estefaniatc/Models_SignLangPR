@@ -1,0 +1,67 @@
+{
+    "quizTitle": "Prueba de la familia",
+    "quizSynopsis": "Repasa los conceptos aprendidos en la lección de la familia. Esta prueba medira tu retención del material.",
+    "appLocale": {
+        "landingHeaderText": "<questionLength> Preguntas",
+        "question": "Pregunta",
+        "startQuizBtn": "Comenzar Prueba",
+        "resultFilterAll": "Todas",
+        "resultFilterCorrect": "Correctas",
+        "resultFilterIncorrect": "Incorrectas",
+        "nextQuestionBtn": "Próximo",
+        "resultPageHeaderText": "Ha completado la prueba de los meses. Obtuvo <correctIndexLength> de <questionLength> preguntas correctas.",
+        "resultPagePoint": "Su puntuación fue <correctPoints>/<totalPoints>",
+        "singleSelectionTagText": "Selección sencilla",
+        "multipleSelectionTagText": "Selección múltiple",
+        "pickNumberOfSelection": "Escoja <numberOfSelection>"
+    },
+    "questions": [
+        {
+            "question": "¿Qué miembro de la familia presenta la imagen?",
+            "questionType": "text",
+            "questionPic": "https://drive.google.com/uc?export=view&id=1DWPuZbXgKJcnTP_obwyR9f1kkhi5hTaj",
+            "answerSelectionType": "single",
+            "answers": [
+                "papá",
+                "hermano",
+                "mamá",
+                "abuela"
+            ],
+            "correctAnswer": "3",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "20"
+        },
+        {
+            "questionPic": "https://drive.google.com/uc?export=view&id=1KUF1zjuXNcyusmJVLeR0CwdiCF1BqLB4",
+            "question": "La seña representa la palabra: niños",
+            "questionType": "text",
+            "answerSelectionType": "single",
+            "answers": [
+                "cierto",
+                "falso"
+            ],
+            "correctAnswer": "1",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "20"
+        },
+        {
+            "question": "La seña representa la palabra: papá",
+            "questionType": "text",
+            "questionPic": "https://drive.google.com/uc?export=view&id=1sbZpcFn0nB6OPpkYOvcIKQFv0qBjTA3R",
+            "answerSelectionType": "single",
+            "answers": [
+                "cierto",
+                "falso"
+            ],
+            "correctAnswer": "2",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "20"
+        }
+    ]
+}
