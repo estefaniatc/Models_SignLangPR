@@ -1,0 +1,102 @@
+{
+    "quizTitle": "Prueba de los Colores",
+    "quizSynopsis": "Repasa los conceptos aprendidos en la lección de los colores. Esta prueba medira tu retención del material.",
+    "appLocale": {
+        "landingHeaderText": "<questionLength> Preguntas",
+        "question": "Pregunta",
+        "startQuizBtn": "Comenzar Prueba",
+        "resultFilterAll": "Todas",
+        "resultFilterCorrect": "Correctas",
+        "resultFilterIncorrect": "Incorrectas",
+        "nextQuestionBtn": "Próximo",
+        "resultPageHeaderText": "Ha completado la prueba del abecedario. Obtuvo <correctIndexLength> de <questionLength> preguntas correctas.",
+        "resultPagePoint": "Su puntuación fue <correctPoints>/<totalPoints>",
+        "singleSelectionTagText": "Selección sencilla",
+        "multipleSelectionTagText": "Selección múltiple",
+        "pickNumberOfSelection": "Escoja <numberOfSelection>"
+      } ,
+      "questions": [
+        {
+            "question": "¿Qué color presenta la imagen?",
+            "questionType": "text",
+            "questionPic": "https://drive.google.com/uc?export=view&id=1un42fKaSJXs_onuYpaaeHv__SrAFyk3z",
+            "answerSelectionType": "single",
+            "answers": [
+                "azul",
+                "turquesa",
+                "rojo",
+                "anaranjado"
+            ],
+            "correctAnswer": "4",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "10"
+        },
+        {
+            "questionPic": "https://drive.google.com/uc?export=view&id=1ZdaRDtMlQH4zWzwYXCveWvIRvRS-soR1",
+            "question": "¿Qué color es este?",
+            "questionType": "text",
+            "answerSelectionType": "single",
+            "answers": [
+                "negro",
+                "gris",
+                "blanco",
+                "crema"
+            ],
+            "correctAnswer": "1",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "10"
+        },
+        {
+            "question": "Muchos colores son representados utilizando la primera letra de su nombre en inglés.",
+            "questionType": "text",
+            "answerSelectionType": "single",
+            "answers": [
+                "cierto",
+                "falso"
+            ],
+            "correctAnswer": "1",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "10"
+        },
+        {
+            "question": "¿Qué color presenta la imagen?",
+            "questionType": "text",
+            "questionPic": "https://drive.google.com/uc?export=view&id=1kAphLV3AO6iGA77_FUeNgF0Ibj49HIOB",
+            "answerSelectionType": "single",
+            "answers": [
+                "blanco",
+                "amarillo",
+                "rosa",
+                "azul"
+            ],
+            "correctAnswer": "3",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "10"
+        },
+        {
+            "question": "¿Qué color presenta esta imagen?",
+            "questionType": "text",
+            "questionPic": "https://drive.google.com/uc?export=view&id=1OgnIYnCt9EsM4mAcWyfljbGO1gSyIbyx",
+            "answerSelectionType": "single",
+            "answers": [
+                "crema",
+                "rojo",
+                "violeta",
+                "blanco"
+            ],
+            "correctAnswer": "1",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "10"
+        }
+    ]
+}
