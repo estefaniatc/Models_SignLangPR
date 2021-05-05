@@ -1,0 +1,88 @@
+{
+    "quizTitle": "Prueba del los días de la semana",
+    "quizSynopsis": "Repasa los conceptos aprendidos en la lección de los días de la semana. Esta prueba medira tu retención del material.",
+    "appLocale": {
+        "landingHeaderText": "<questionLength> Preguntas",
+        "question": "Pregunta",
+        "startQuizBtn": "Comenzar Prueba",
+        "resultFilterAll": "Todas",
+        "resultFilterCorrect": "Correctas",
+        "resultFilterIncorrect": "Incorrectas",
+        "nextQuestionBtn": "Próximo",
+        "resultPageHeaderText": "Ha completado la prueba del los días de la semanaƒΩ. Obtuvo <correctIndexLength> de <questionLength> preguntas correctas.",
+        "resultPagePoint": "Su puntuación fue <correctPoints>/<totalPoints>",
+        "singleSelectionTagText": "Selección sencilla",
+        "multipleSelectionTagText": "Selección múltiple",
+        "pickNumberOfSelection": "Escoja <numberOfSelection>"
+    },
+    "questions": [
+        {
+            "question": "Identifica el día presentado en la imagen.",
+            "questionType": "text",
+            "questionPic": "https://drive.google.com/uc?export=view&id=1391w-Y1iBZPplikZEvklvZs-QSIEl9x5",
+            "answerSelectionType": "single",
+            "answers": [
+                "lunes",
+                "viernes",
+                "miércoles",
+                "martes"
+            ],
+            "correctAnswer": "3",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "20"
+        },
+        {
+            "question": "Identifica el día presentado en la imagen.",
+            "questionType": "text",
+            "questionPic": "https://drive.google.com/uc?export=view&id=1rdXry2jPvxcEGjXL-aXdYXOHKN5lY3fN",
+            "answerSelectionType": "single",
+            "answers": [
+                "sábado",
+                "lunes",
+                "martes",
+                "miércoles"
+            ],
+            "correctAnswer": "2",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "20"
+        },
+        {
+            "question": "Identifica el día presentado en la imagen.",
+            "questionType": "text",
+            "questionPic": "https://drive.google.com/uc?export=view&id=1iFSpJHKi-Uth61n2rR7TVtOSnX2YIscR",
+            "answerSelectionType": "single",
+            "answers": [
+                "jueves",
+                "viernes",
+                "sábado",
+                "domingo"
+            ],
+            "correctAnswer": "4",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "20"
+        },
+        {
+            "question": "Identifica el día presentado en la imagen.",
+            "questionType": "text",
+            "questionPic": "https://drive.google.com/uc?export=view&id=1ExMTT4YEVdXNi4yUkr7fURSlUqPpzcj_",
+            "answerSelectionType": "single",
+            "answers": [
+                "viernes",
+                "martes",
+                "jueves",
+                "sábado"
+            ],
+            "correctAnswer": "1",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "20"
+        }
+    ]
+}

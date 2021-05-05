@@ -1,0 +1,65 @@
+{
+    "quizTitle": "Prueba de Femenino y Maculino",
+    "quizSynopsis": "Repasa los conceptos aprendidos en la lección de femenino y maculino. Esta prueba medira tu retención del material.",
+    "appLocale": {
+        "landingHeaderText": "<questionLength> Preguntas",
+        "question": "Pregunta",
+        "startQuizBtn": "Comenzar Prueba",
+        "resultFilterAll": "Todas",
+        "resultFilterCorrect": "Correctas",
+        "resultFilterIncorrect": "Incorrectas",
+        "nextQuestionBtn": "Próximo",
+        "resultPageHeaderText": "Ha completado la prueba del abecedario. Obtuvo <correctIndexLength> de <questionLength> preguntas correctas.",
+        "resultPagePoint": "Su puntuación fue <correctPoints>/<totalPoints>",
+        "singleSelectionTagText": "Selección sencilla",
+        "multipleSelectionTagText": "Selección múltiple",
+        "pickNumberOfSelection": "Escoja <numberOfSelection>"
+      } ,
+      "questions": [
+        {
+            "question": "Los gestos que se refieren al género femenino ocupan la parte superior de la cara",
+            "questionType": "text",
+            "answerSelectionType": "single",
+            "answers": [
+                "cierto",
+                "falso"
+            ],
+            "correctAnswer": "2",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "10"
+        },
+        {
+            "questionPic": "https://drive.google.com/uc?export=view&id=1BR6L0QG5RCttzwcjbL7zVZ8D2eqWc_vB",
+            "question": "¿Qué género representa el gesto?",
+            "questionType": "text",
+            "answerSelectionType": "single",
+            "answers": [
+                "femenino",
+                "masculino"
+            ],
+            "correctAnswer": "2",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "10"
+        },
+        {
+            "questionPic": "https://drive.google.com/uc?export=view&id=1_ByxujroWCx39W0mgtjs7bdUQmX3UiJg",
+            "question": "¿Qué género representa este gesto?",
+            "questionType": "text",
+            "answerSelectionType": "single",
+            "answers": [
+                "femenino",
+                "masculino"
+            ],
+            "correctAnswer": "1",
+            "messageForCorrectAnswer": "Correcto. ¡Buen trabajo!",
+            "messageForIncorrectAnswer": "Respuesta incorrecta.",
+            "explanation": "",
+            "point": "10"
+        }
+       
+    ]
+}
